@@ -1,1 +1,1 @@
-# video-classification-cnn-lstm
+# video-classification-3dcnn
